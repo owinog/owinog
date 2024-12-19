@@ -26,9 +26,8 @@ Here are the skills and tools I bring to the table:
 
 ---
 
-# More about me? Okay!
 
----
+# More about me?
 
 ## 🚀 My Ikigai
 
