@@ -4,25 +4,6 @@ Welcome to my corner of the digital universe! I’m a **Software Engineer** who 
 
 ---
 
-## 🚀 My Ikigai
-
-🎯 **Enjoying the process** as much as the outcome. Whether I’m coding, designing, or brainstorming, my focus is on:
-- 🌟 Creating **user-first designs** that are as intuitive as they are beautiful.
-- 🛡️ Exploring **blockchain technology** to unlock decentralized potential.
-- 🤝 Building apps that bridge gaps and bring people together.
-
----
-
-## 🎸 A Glimpse into My Life
-
-When I’m not crafting elegant code or sketching UI concepts, you’ll probably find me:
-- 🎤 **Singing my heart out** while strumming my guitar like I’m on tour.
-- 🎬 Watching **comedy sitcoms and movies** that make me laugh out loud.
-- 🎧 **Discovering new music** to keep the vibe alive.
-- 🌍 Exploring **new ideas, hobbies, and experiences** because life is too short to stay in one lane.
-
----
-
 ## 🛠️ My Toolbox
 
 Here are the skills and tools I bring to the table:
@@ -42,6 +23,29 @@ Here are the skills and tools I bring to the table:
 
 ### UI/UX
 🎨 Designing interfaces that make users say, “Wow, this is nice!”
+
+---
+
+# More about me? Okay!
+
+---
+
+## 🚀 My Ikigai
+
+🎯 **Enjoying the process** as much as the outcome. Whether I’m coding, designing, or brainstorming, my focus is on:
+- 🌟 Creating **user-first designs** that are as intuitive as they are beautiful.
+- 🛡️ Exploring **blockchain technology** to unlock decentralized potential.
+- 🤝 Building apps that bridge gaps and bring people together.
+
+---
+
+## 🎸 A Glimpse into My Life
+
+When I’m not crafting elegant code or sketching UI concepts, you’ll probably find me:
+- 🎤 **Singing my heart out** while strumming my guitar like I’m on tour.
+- 🎬 Watching **comedy sitcoms and movies** that make me laugh out loud.
+- 🎧 **Discovering new music** to keep the vibe alive.
+- 🌍 Exploring **new ideas, hobbies, and experiences** because life is too short to stay in one lane.
 
 ---
 
